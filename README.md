@@ -1,7 +1,6 @@
 <img width="1792" height="1024" alt="amn-ai" src="https://github.com/user-attachments/assets/797036ad-6034-482a-927f-d98b0d931e02" />
 
 <!-- HEADER STYLE: CLASSIC -->
-<div align="left">
 
 <img src="AMN-AI.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
