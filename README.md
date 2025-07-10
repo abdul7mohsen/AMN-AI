@@ -2,7 +2,7 @@
 
 <!-- HEADER STYLE: CLASSIC -->
 
-<img src="AMN-AI.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="AMN-AI.png" width="30%"/>
 
 # AMN-AI
 
