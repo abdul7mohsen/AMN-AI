@@ -2,8 +2,6 @@
 
 <!-- HEADER STYLE: CLASSIC -->
 
-<img src="AMN-AI.png" width="30%"/>
-
 # AMN-AI
 
 <em>Empowering Seamless AI Conversations at Scale</em>
